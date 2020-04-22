@@ -1,0 +1,17 @@
+{
+  "plans": [
+    { "id": 1, "title": "Free Plan 1" },
+    { "id": 2, "title": "Paid Plan 2 - Monthly" },
+    { "id": 3, "title": "Paid Plan 3 - Yearly" }
+  ],
+  "users": [
+    { "id": 1, "email": "user1@gmail.com", "plan": 1 },
+    { "id": 2, "email": "user2@gmail.com", "plan": 3 },
+    { "id": 3, "email": "user3@gmail.com", "plan": 1 },
+    { "id": 4, "email": "user4@gmail.com", "plan": 1 },
+    { "id": 5, "email": "user5@gmail.com", "plan": 2 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
